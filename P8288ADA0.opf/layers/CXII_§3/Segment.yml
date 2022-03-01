@@ -1,0 +1,9 @@
+id: afb66561af614333aa12a995a2c768cd
+annotation_type: Segment
+revision: '00001'
+annotations:
+  c7ec27eae8254992aa6d381df737dc2f:
+    span:
+      start: 0
+      end: 112
+    metadata: {}
